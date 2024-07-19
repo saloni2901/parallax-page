@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Steps involved: 
+- creating react application with npx create-react-app.
+- installing parallax npm package
+- creating components and assets folder
+- Component for each image and textbox component
+- css styling
+
 ## Available Scripts
 
 In the project directory, you can run:
